@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Streaming Revive","Watching Support"];
+const statusMessages = ["Streaming Rogue","Watching Scripts"];
 
 
 let currentIndex = 0;
