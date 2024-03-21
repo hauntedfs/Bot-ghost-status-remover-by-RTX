@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Streaming Rogue","Watching Scripts"];
+const statusMessages = ["Streaming Roblox Studios","Watching Skyhood"];
 
 
 let currentIndex = 0;
