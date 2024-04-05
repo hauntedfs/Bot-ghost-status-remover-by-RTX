@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Streaming Roblox Studios","Watching Skyhood"];
+const statusMessages = ["🔗 bleed.bot","🔗 discord.gg/bleed"];
 
 
 let currentIndex = 0;
